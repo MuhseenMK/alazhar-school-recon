@@ -326,25 +326,23 @@ If cPanel is patched, the site remains **High risk** due to outdated BIND, nginx
 
 ## 9. Screenshots
 
-### Screenshot 1 — WHOIS
-![WHOIS](screenshots/whois.png)
+### Screenshot 1 — WHOIS (Domain Registration)
+![WHOIS 1](whois1.png)
 
-### Screenshot 2 — whatweb & nslookup
-![whatweb & nslookup](screenshots/whatweb-nslookup.png)
+### Screenshot 2 — WHOIS (Terms of Use)
+![WHOIS 2](whois2.png)
 
-### Screenshot 3 — curl -I
-![curl](screenshots/curl.png)
+### Screenshot 3 — whatweb & nslookup
+![whatweb](whatweb1.png)
 
-### Screenshot 4 — wafw00f & dnsrecon
-![wafw00f & dnsrecon](screenshots/wafw00f-dnsrecon.png)
+### Screenshot 4 — curl -I
+![curl](curl1.png)
 
-### Screenshot 5 — dnsrecon SRV Records
-![dnsrecon SRV](screenshots/dnsrecon-srv.png)
+### Screenshot 5 — wafw00f
+![wafw00f 1](waffwof1.png)
 
-### Screenshot 6 — WHOIS Terms / Connection Refused
-![whois terms](screenshots/whois-terms.png)
-
----
+### Screenshot 6 — dnsrecon
+![wafw00f 2](waffwof2.png)
 
 ## 10. Tools Used
 
